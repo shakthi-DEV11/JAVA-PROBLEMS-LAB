@@ -1,3 +1,11 @@
+//20. Largest Digit in a Number
+//
+//Definition: Find the maximum digit present in a given number.
+//
+//Example:
+//
+//Input: 58321
+//Output: 8
 package LoopNumbers;
 class largest{
     public void largrstdigite(int num){

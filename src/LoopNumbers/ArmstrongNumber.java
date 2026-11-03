@@ -1,3 +1,18 @@
+//15. Armstrong Number
+//
+//Definition: A number is called an Armstrong Number if the sum of its digits raised to the power of the total number of digits equals the original number.
+//
+//Example:
+//
+//Input: 153
+//
+//1³ = 1
+//5³ = 125
+//3³ = 27
+//
+//Sum = 153
+//
+//Output: Armstrong Number
 package LoopNumbers;
 import java.util.Scanner;
 class numbers{

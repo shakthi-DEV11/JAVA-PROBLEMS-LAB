@@ -1,3 +1,12 @@
+//25. Check Co-Prime Numbers
+//Definition: Two numbers are called Co-Prime Numbers if their GCD is equal to 1.
+//
+//Example:
+//Input: 8, 15
+//
+//GCD = 1
+//
+//Output: Co-Prime Numbers
 package MathematicalNumber.GCDLCM;
 
 public class GCDCOPRIME {

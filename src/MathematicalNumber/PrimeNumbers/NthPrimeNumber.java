@@ -1,3 +1,13 @@
+//30. Nth Prime Number
+//Definition: Find the prime number at a given position in the sequence of prime numbers.
+//
+//Example:
+//Input: N = 5
+//
+//Prime Numbers:
+//2, 3, 5, 7, 11
+//
+//Output: 11
 package MathematicalNumber.PrimeNumbers;
 
 public class NthPrimeNumber {

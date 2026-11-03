@@ -1,3 +1,11 @@
+//07. Divisibility by 5 and 11
+//
+//Definition: Check whether a given number is divisible by both 5 and 11 without leaving a remainder.
+//
+//Example:
+//
+//Input: 55
+//Output: Divisible by 5 and 11
 package basicnumbers;
 import java.util.Scanner;
 class check{

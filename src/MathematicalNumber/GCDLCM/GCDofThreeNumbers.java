@@ -1,3 +1,10 @@
+//22. GCD of Three Numbers
+//Definition: Find the greatest common divisor that divides all three given numbers exactly.
+//
+//Example:
+//Input: 12, 18, 24
+//
+//Output: GCD = 6
 package MathematicalNumber.GCDLCM;
 
 public class GCDofThreeNumbers {

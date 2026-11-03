@@ -1,3 +1,11 @@
+//02. Even or Odd Number
+//
+//Definition: Check whether a number is divisible by 2 without leaving a remainder.
+//
+//Example:
+//
+//Input: 10
+//Output: Even Number
 package basicnumbers;
 import java.util.Scanner;
 class numbers{

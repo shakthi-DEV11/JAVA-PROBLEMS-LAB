@@ -1,3 +1,14 @@
+//16. Factorial of a Number
+//
+//Definition: Calculate the product of all positive integers from 1 to the given number.
+//
+//Example:
+//
+//Input: 5
+//
+//Calculation: 5 × 4 × 3 × 2 × 1
+//
+//Output: 120
 package LoopNumbers;
 import java.util.Scanner;
 class duplicat{
