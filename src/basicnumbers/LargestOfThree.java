@@ -1,3 +1,11 @@
+//04. Largest of Three Numbers
+//
+//Definition: Find the greatest value among three given numbers.
+//
+//Example:
+//
+//Input: 10, 25, 15
+//Output: 25 is the Largest Number
 package basicnumbers;
 import java.util.Scanner;
 class numberss{

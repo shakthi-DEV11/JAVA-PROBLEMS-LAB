@@ -1,3 +1,12 @@
+//14. Palindrome Number
+//
+//Definition: A number is called a Palindrome if its reverse is equal to the original number.
+//
+//Example:
+//
+//Input: 121
+//Reverse: 121
+//Output: Palindrome Number
 package LoopNumbers;
 import java.util.Scanner;
 class digi{

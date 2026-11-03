@@ -1,3 +1,12 @@
+//26. Check Prime Number
+//Definition: Check whether a given number is a Prime Number. A prime number has exactly two factors: 1 and itself.
+//
+//Example:
+//Input: 7
+//
+//Factors: 1, 7
+//
+//Output: Prime Number
 package MathematicalNumber.PrimeNumbers;
 class prime{
     public void primenumber(int num){

@@ -1,3 +1,16 @@
+//29. Sum of Prime Numbers
+//Definition: Find the sum of all prime numbers within a given range.
+//
+//Example:
+//Input:
+//Start = 1
+//End = 10
+//
+//Prime Numbers: 2, 3, 5, 7
+//
+//Sum = 2 + 3 + 5 + 7
+//
+//Output: 17
 package MathematicalNumber.PrimeNumbers;
 class countt{
     public void primenumbe(int num) {

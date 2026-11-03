@@ -1,3 +1,11 @@
+//01. Positive, Negative or Zero
+//
+//Definition: Check whether a given number is positive, negative, or zero.
+//
+//Example:
+//
+//Input: -5
+//Output: Negative Number
 package basicnumbers;
 import java.util.Scanner;
 class checknumber{

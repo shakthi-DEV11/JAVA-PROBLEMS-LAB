@@ -1,3 +1,14 @@
+//05. Swap Two Numbers Without a Third Variable
+//
+//Definition: Exchange the values of two variables without using an additional temporary variable.
+//
+//Example:
+//
+//Input: a = 10, b = 20
+//
+//Output:
+//a = 20
+//b = 10
 package basicnumbers;
 import java.util.Scanner;
 class num{

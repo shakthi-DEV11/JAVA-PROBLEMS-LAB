@@ -1,3 +1,12 @@
+//06. Square and Cube of a Number
+//
+//Definition: Calculate the square (number × number) and cube (number × number × number) of a given number.
+//
+//Example:
+//
+//Input: 5
+//Square: 25
+//Cube: 125
 package basicnumbers;
 import java.util.Scanner;
 class numm{

@@ -1,3 +1,10 @@
+//24. GCD of an Array
+//Definition: Find the greatest common divisor of all elements present in an integer array.
+//
+//Example:
+//Input: [12, 18, 24, 30]
+//
+//Output: GCD = 6
 package MathematicalNumber.GCDLCM;
 
 public class GCDArray {

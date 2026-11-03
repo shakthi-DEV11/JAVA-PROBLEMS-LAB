@@ -1,3 +1,11 @@
+//10. Reverse a Number
+//
+//Definition: Reverse the order of digits in a given number.
+//
+//Example:
+//
+//Input: 1234
+//Output: 4321
 package basicnumbers;
 import java.util.Scanner;
 class depart{

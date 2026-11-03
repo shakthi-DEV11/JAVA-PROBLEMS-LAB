@@ -1,3 +1,12 @@
+//12. Sum of Digits
+//
+//Definition: Calculate the sum of all individual digits in a given number.
+//
+//Example:
+//
+//Input: 1234
+//Calculation: 1 + 2 + 3 + 4
+//Output: 10
 package LoopNumbers;
 import java.util.Scanner;
 class sum{

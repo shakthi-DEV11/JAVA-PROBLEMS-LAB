@@ -1,3 +1,13 @@
+//27. Prime Numbers in a Range
+//Definition: Print all prime numbers between a given starting number and ending number.
+//
+//Example:
+//Input:
+//Start = 1
+//End = 20
+//
+//Output:
+//2, 3, 5, 7, 11, 13, 17, 19
 package MathematicalNumber.PrimeNumbers;
 class primee{
     public void primenumberr(int num) {

@@ -1,3 +1,14 @@
+//21. GCD_LCM Problems
+//01. GCD of Two Numbers
+//Definition: Find the Greatest Common Divisor (GCD) of two given numbers. GCD is the largest number that divides both numbers exactly.
+//
+//Example:
+//Input: 12, 18
+//
+//Factors of 12: 1, 2, 3, 4, 6, 12
+//Factors of 18: 1, 2, 3, 6, 9, 18
+//
+//Output: GCD = 6
 package MathematicalNumber.GCDLCM;
 public class GCDofTwoNumbers {
     static void main() {

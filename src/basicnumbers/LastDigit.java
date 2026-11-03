@@ -1,3 +1,11 @@
+//08. Find the Last Digit
+//
+//Definition: Extract the last digit of a given number using the modulo operation.
+//
+//Example:
+//
+//Input: 1234
+//Output: 4
 package basicnumbers;
 import java.util.Scanner;
 class chec{

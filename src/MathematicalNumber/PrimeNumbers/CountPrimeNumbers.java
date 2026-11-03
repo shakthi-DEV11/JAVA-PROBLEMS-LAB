@@ -1,3 +1,12 @@
+//28. Count Prime Numbers
+//Definition: Count the total number of prime numbers within a given range.
+//
+//Example:
+//Input:
+//Start = 1
+//End = 10
+//
+//Prime Numbers: 2, 3, 5, 7
 package MathematicalNumber.PrimeNumbers;
 class count{
     public void primenumbe(int num) {

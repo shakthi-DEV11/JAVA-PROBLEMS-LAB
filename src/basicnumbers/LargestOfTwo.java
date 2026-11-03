@@ -1,3 +1,11 @@
+//03. Largest of Two Numbers
+//
+//Definition: Find the greatest value between two given numbers.
+//
+//Example:
+//
+//Input: 10, 20
+//Output: 20 is the Largest Number
 package basicnumbers;
 import java.util.Scanner;
 class number{
