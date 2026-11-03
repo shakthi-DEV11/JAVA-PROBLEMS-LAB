@@ -149,8 +149,8 @@ Track your completed problems:
 
 | Category | Total Problems | Completed |
 |---|---:|----------:|
-| Prime Numbers | 5 |         1 |
-| GCD & LCM | 5 |         0 |
+| Prime Numbers | 5 |         5 |
+| GCD & LCM | 5 |         5 |
 | Special Numbers | 10 |         0 |
 | Fibonacci & Series | 5 |         0 |
 | Advanced Mathematics | 10 |         0 |
